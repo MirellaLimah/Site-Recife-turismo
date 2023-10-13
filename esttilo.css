@@ -1,0 +1,44 @@
+.titulo { font-size: 85px;
+color: rgb(242, 250, 252);
+font-family: Georgia, 'Times New Roman', Times, serif;}
+
+body{
+    background-image: url('recife2.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+a{ color: aliceblue;}
+
+.container{ 
+    position: absolute;
+    top: 10;
+    left: 0;
+    right: 0;
+    text-align: center;
+}
+
+button{ 
+    background-color:rgb(242, 250, 252);
+    color: darkslateblue;
+    border: 5px;
+    top: 10px;
+    left: 10000px;
+    width: 333px;
+    height: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 35px;
+}
+.paragrafo{
+    color: aliceblue;
+    font-weight: bolder;
+    background-color: rgba(47, 49, 49, 0.514);
+    opacity: 1;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px
+    text-align: justifing;
+}
+
+.segunda{
+    background-color: aliceblue;
+}
